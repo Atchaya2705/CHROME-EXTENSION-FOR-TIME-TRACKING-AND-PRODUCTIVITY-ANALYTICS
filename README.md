@@ -29,3 +29,4 @@ This project can be expanded further by adding a visual dashboard for historical
 
 ## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e40d23d8-3c65-429a-9827-cd679404eefb)
